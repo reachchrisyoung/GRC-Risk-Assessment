@@ -1,4 +1,4 @@
-# Risk Assessment
+# GRC Risk Assessment
 Cybersecurity relates works in Risk Assessment are contained in this portfolio item.
 
 ## Description
