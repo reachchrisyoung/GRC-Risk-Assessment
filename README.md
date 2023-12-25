@@ -25,7 +25,7 @@ Cybersecurity relates works in Risk Assessment are contained in this portfolio i
 
 # Project Walkthrough
 
-For the purpose of this project, I will be using the findings from the Practical Audit I conducted, combined with threat modeling, to understand the risks involved with the organization.
+For the purpose of this project, I will be using the findings from an audit previously conducted, combined with threat modeling, to understand the risks involved with the organization.
 
 ### Step 1: Understanding Control Status
 
